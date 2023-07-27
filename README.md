@@ -2,8 +2,7 @@
 
 # Sobre o projeto
 
-O workshop-spring é uma aplicação backend e-commerce desenvolvida com Java Spring, envolvendo alguns elementos importantes: as 
-categorias, a qual pertence a muitos produtos, ao item de pedido, o pedido, status do pagamento e os usuários associados aos pedidos.
+O workshop-spring é uma aplicação backend e-commerce desenvolvida com Java Spring versão 11, envolvendo alguns elementos importantes: as categorias, a qual pertence a muitos produtos, ao item de pedido, o pedido, status do pagamento e os usuários associados aos pedidos.
 
 # Modelo de domínio de acordo com a UML
 
