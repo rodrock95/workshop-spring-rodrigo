@@ -1,4 +1,5 @@
 # workshop-spring-rodrigo
+https://github.com/rodrock95/workshop-spring-rodrigo/blob/master/LICENSE
 
 # Sobre o projeto
 
